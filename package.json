@@ -1,0 +1,31 @@
+{
+  "name": "sorted-array-map",
+  "version": "0.1.0",
+  "description": "Sorted Map for Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "binary-search": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaozhanyong/sorted-array-map.git"
+  },
+  "keywords": [
+    "sort",
+    "sorted",
+    "sortedmap",
+    "sortedarraymap",
+    "map",
+    "array"
+  ],
+  "author": "gaozhanyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaozhanyong/sorted-array-map/issues"
+  },
+  "homepage": "https://github.com/gaozhanyong/sorted-array-map#readme"
+}
